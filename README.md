@@ -1,4 +1,4 @@
-# Data-Science-P1-golden
+# stock price analysis
 a time series analysis project using a dataset with a time
 component, specifically historical stock prices. The objective is to uncover
 patterns, trends, and insights from the temporal data, enabling a better
